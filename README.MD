@@ -1,0 +1,1 @@
+ich benutze Windows 10 OS , deswegen brauchte ich libstdc++6.dll in jedem Verzeichnis(a1, a2, a3, a4)  zu haben .

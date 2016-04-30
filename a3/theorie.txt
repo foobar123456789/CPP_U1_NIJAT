@@ -1,0 +1,6 @@
+In Queue pop() Methode ,müssen wir über all Elemente iterieren, bis zu dem letzten ... das bedeutet , 
+O(n) , Stellen Sie sich vor , wir haben 1 Millionen Elemente in Queue , es wäre ineffizient 
+1 Millionen -1 Iteration zu machen , um das erste Element zu löschen .
+
+In Stack pop() Methode , wir brauchen das letzte Element zu löschen , O(1) , die ist konstant , 
+Das macht keinen Unterschied , ob wir 1 Millionen oder 2 Elemente in Stack haben , die is effizient.
